@@ -13,7 +13,7 @@ I have a deep interest into Physics and Astrophysics and with a strong backgroun
 * Shows more info about selected planet
 
 ## Limitations
-* Unoptimised, FPS drops causes inaccurate time scale.
+* Not fully optimised, can cause FPS issues
 * Sun's radius is not to scale.
 * No moons.
 
